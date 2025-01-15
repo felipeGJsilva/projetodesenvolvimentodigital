@@ -1,0 +1,10 @@
+        Programa controle de combustivel de maquinarios
+
+sistema: o "sistema" da empresa na parte do controle de combustivel de maquinarios tem um
+forte problema devido a má construção dele, no caso em si não existe um sistema, o controle é feito
+através de uma planilha excel totalmente desorganizada, no qual mistura todos os maquinarios em uma só
+planilha, dificultando a visibilidade dos objetivos a serem procurados.
+
+objetivo: criar um sistema que será utilizado para controlede combustivel com uma total organização
+e funcional para substituir o metodo de utilizar excel, no qual é muito incoviniente para uma função importante
+que é de administrar o controle de combustivel de toda ma empresa
